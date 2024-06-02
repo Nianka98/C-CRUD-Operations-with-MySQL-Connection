@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\My CRUD\My CRUD\bin\Debug\My CRUD.exe.config
+C:\Users\user\source\repos\My CRUD\My CRUD\bin\Debug\My CRUD.exe
+C:\Users\user\source\repos\My CRUD\My CRUD\bin\Debug\My CRUD.pdb
+C:\Users\user\source\repos\My CRUD\My CRUD\obj\Debug\My CRUD.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\My CRUD\My CRUD\obj\Debug\My_CRUD.Form1.resources
+C:\Users\user\source\repos\My CRUD\My CRUD\obj\Debug\My_CRUD.Properties.Resources.resources
+C:\Users\user\source\repos\My CRUD\My CRUD\obj\Debug\My CRUD.csproj.GenerateResource.cache
+C:\Users\user\source\repos\My CRUD\My CRUD\obj\Debug\My CRUD.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\My CRUD\My CRUD\obj\Debug\My CRUD.exe
+C:\Users\user\source\repos\My CRUD\My CRUD\obj\Debug\My CRUD.pdb
+C:\Users\user\source\repos\My CRUD\My CRUD\obj\Debug\My CRUD.csproj.SuggestedBindingRedirects.cache
